@@ -6,6 +6,6 @@ Pod::Spec.new do |spec|
   spec.authors          = { "Tom Irving" => "info@thermoglobalnuclearwar.com"}
   spec.summary          = "An iOS version of the NSTokenField (See To: field in Mail and Messages)."
   spec.source           =  { :git => "https://github.com/tkaragodova-softheme/TITokenField.git" }
-  spec.source_files     = "TITokenField.h,m"
+  spec.source_files     = "TITokenField.{h,m}"
   spec.requires_arc     = true
 end
