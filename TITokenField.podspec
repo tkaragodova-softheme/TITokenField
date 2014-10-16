@@ -1,4 +1,4 @@
-Pod::Spec.new do |spec|
+Pod::Spec.new do |s|
   s.name             = "TITokenField"
   s.version          = "1.0"
   s.license          =  { :type => "Dual-licensed (BSD and commercial)" }
